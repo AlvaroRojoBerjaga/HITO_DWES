@@ -1,0 +1,7 @@
+CF;Fisica;3
+CM;Matemeticas;4
+CQ;Quimica;3
+CL;Lengua;2
+CR;Religion;1
+CE;Estadistica;3
+CP;Programacion;4
